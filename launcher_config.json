@@ -109,12 +109,12 @@
             "mods": [
                 {
                     "name": "fabric-api-0.119.4+1.21.4.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/rcTrHGJD/fabric-api-0.119.4%2B1.21.4.jar",
+                    "url": "https://modrinth.com/mod/fabric-api/version/0.119.4+1.21.4",
                     "hash": ""
                 },
                 {
                     "name": "sodium-fabric-0.6.1+mc1.21.4.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/oE2HXadC/sodium-fabric-0.6.1%2Bmc1.21.4.jar",
+                    "url": "https://modrinth.com/mod/sodium/version/mc1.21.4-0.6.13-fabric",
                     "hash": ""
                 },
                 {
@@ -124,12 +124,12 @@
                 },
                 {
                     "name": "lithium-fabric-0.14.4+mc1.21.4.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/7MR2Bnbo/lithium-fabric-0.14.4%2Bmc1.21.4.jar",
+                    "url": "https://modrinth.com/mod/lithium/version/mc1.21.4-0.15.3-fabric",
                     "hash": ""
                 },
                 {
                     "name": "ferritecore-7.3.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2pJpJOlS/ferritecore-7.3.2-fabric.jar",
+                    "url": "https://modrinth.com/mod/ferrite-core/version/7.1.3-fabric",
                     "hash": ""
                 }
             ]
