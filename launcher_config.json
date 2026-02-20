@@ -13,6 +13,11 @@
         "1.21.4 sodium": {
             "mods": [
                 {
+                    "name": "fabric-api-0.119.4+1.21.4.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/rcTrHGJD/fabric-api-0.119.4%2B1.21.4.jar",
+                    "hash": ""
+                },
+                {
                     "name": "HeavyClientMod-1.0.0.jar",
                     "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
                     "hash": ""
