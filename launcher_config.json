@@ -13,6 +13,11 @@
         "1.21.4 sodium": {
             "mods": [
                 {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                },
+                {
                     "name": "sodium-fabric-0.6.10+mc1.21.4.jar",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/FRXt5xaI/sodium-fabric-0.6.10%2Bmc1.21.4.jar",
                     "hash": ""
@@ -29,16 +34,104 @@
                 }
             ]
         },
-        "1.21.1 sodium": { "mods": [] },
-        "1.21.11 sodium": { "mods": [] },
-        "1.21.10 sodium": { "mods": [] },
-        "1.21.8 sodium": { "mods": [] },
-        "1.21.6 sodium": { "mods": [] },
-        "1.21.5 sodium": { "mods": [] },
-        "1.21.3 sodium": { "mods": [] },
-        "1.20.6 sodium": { "mods": [] },
-        "1.20.1 sodium": { "mods": [] },
-        "1.20.1 vulkan": { "mods": [] },
-        "1.19.2 optifine": { "mods": [] }
+        "1.21.1 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.11 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.10 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.8 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.6 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.5 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.21.3 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.20.6 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.20.1 sodium": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.20.1 vulkan": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        },
+        "1.19.2 optifine": {
+            "mods": [
+                {
+                    "name": "HeavyClientMod-1.0.0.jar",
+                    "url": "https://github.com/HeavyBunny69/heavy-client-data/raw/main/HeavyClientMod-1.0.0.jar",
+                    "hash": ""
+                }
+            ]
+        }
     }
 }
